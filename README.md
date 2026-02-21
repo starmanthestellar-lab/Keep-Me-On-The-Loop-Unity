@@ -42,7 +42,7 @@ Módulos recomendados:
 
 <br>
 
-<h2><strong>3. Descargar Microsoft Visual Studio Community.</strong></h2>
+<h2><strong>3. Descargar y configurar Microsoft Visual Studio Community.</strong></h2>
 
 <strong>En caso de no estar el módulo de Visual Studio</strong>, realize lo siguiente:
 
@@ -55,7 +55,30 @@ Módulos recomendados:
 
 - Desarrollo de juegos con Unity.
 
+3.4. Tras la instalación, abre Unity Hub, ve a Preferencias, y abre Herramientas Externas.
+
+3.5 En la sección "External Script Editor", selecciona Visual Studio.
+
+Este módulo permite escribir y editar código en C# más facilmente.
 <br>
 
-<h2><strong>4. Descargar Microsoft Visual Studio Community.</strong></h2>
+<h2><strong>4. Crea un proyecto en Unity.</strong></h2>
 
+4.1 Abre Unity Hub.
+
+4.2. Dirigete a "Proyects", y selecciona "New Project".
+
+4.3. Selecciona la plantilla de tu juego (2D o 3D), colocale nombre a tu proyecto y seleccionas la carpeta de guardado.
+Cuando termines de asignar todo, presiona "Create Project"
+
+<br>
+
+<h2><strong>5. Publica tu proyecto en Github.</strong></h2>
+
+Nota: Puedes emplear tanto la versión de navegador como la aplicación. En este caso, usaré la versión de navegador.
+
+5.1 Abre Github, asegurate de ya haber iniciado sesión o, en su defecto, registrarte.
+
+5.2 Dirigete a "Create New" en la barra superior; y selecciona "New Repository". Colocale nombre y configuralo a tu gusto o conveniencia.
+
+5.3. Tras haber creado el repositorio, selecciona la "+", y el "Upload files", y selecciona la carpeta del proyecto de Unity. Añade una descripción o nota si es necesario. Al terminar, presiona "Commit Changes".
